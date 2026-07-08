@@ -1,0 +1,73 @@
+Job Title: Junior AI / Machine Learning Engineer
+
+Location: Bengaluru, India
+
+Experience Required:
+0–2 years
+
+Job Type:
+Full-Time
+
+Job Description:
+
+We are looking for a motivated Junior AI / Machine Learning Engineer to join our growing engineering team. The ideal candidate should have a strong foundation in Python programming, machine learning, data analysis, and software development. You will work on building AI-powered applications, developing machine learning models, integrating REST APIs, and collaborating with cross-functional teams.
+
+Responsibilities:
+
+• Develop and maintain AI and Machine Learning applications.
+• Build, train, and evaluate machine learning models.
+• Perform data preprocessing and feature engineering.
+• Develop REST APIs using Flask or FastAPI.
+• Work with SQL databases and data pipelines.
+• Collaborate with software developers, data scientists, and product teams.
+• Use Git for version control and follow software development best practices.
+• Debug, test, and optimize AI applications.
+• Document code and technical solutions.
+
+Required Skills:
+
+• Python
+• Machine Learning
+• Deep Learning
+• SQL
+• Git
+• REST API Development
+• Flask or FastAPI
+• Data Structures and Algorithms
+• Object-Oriented Programming
+• NumPy
+• Pandas
+• Scikit-learn
+
+Preferred Skills:
+
+• TensorFlow or PyTorch
+• Docker
+• AWS or Azure
+• NLP
+• Computer Vision
+• Linux
+• CI/CD
+• MongoDB
+
+Education:
+
+Bachelor's Degree in Computer Science, Information Science, Artificial Intelligence, Data Science, or a related field.
+
+Soft Skills:
+
+• Strong communication skills
+• Problem-solving ability
+• Team collaboration
+• Quick learner
+• Attention to detail
+
+Selection Criteria:
+
+Candidates will be evaluated based on:
+• Technical skill match
+• Relevant project experience
+• Educational background
+• AI and Machine Learning knowledge
+• Software development practices
+• Overall resume relevance
