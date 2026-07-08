@@ -5,7 +5,10 @@ from src.parser.docx_parser import extract_text_from_docx
 from src.parser.text_parser import extract_text_from_txt
 
 
-def parse_resume(file_path: str):
+def parse_resume(file_path: str) -> dict:
+    """
+    Parse a resume irrespective of its file type.
+    """
 
     extension = Path(file_path).suffix.lower()
 
@@ -19,10 +22,10 @@ def parse_resume(file_path: str):
         text = extract_text_from_txt(file_path)
 
     else:
-        raise ValueError(f"Unsupported file format: {extension}")
+        raise ValueError(f"Unsupported file type: {extension}")
 
     return {
         "filename": Path(file_path).name,
-        "filetype": extension,
-        "text": text,
+        "file_type": extension.replace(".", ""),
+        "text": text
     }

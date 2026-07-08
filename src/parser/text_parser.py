@@ -2,9 +2,13 @@ from pathlib import Path
 
 
 def extract_text_from_txt(file_path: str) -> str:
+    """
+    Extract text from a TXT resume.
+    """
+
     path = Path(file_path)
 
     if not path.exists():
-        raise FileNotFoundError(f"{file_path} not found.")
+        raise FileNotFoundError(f"File not found: {file_path}")
 
     return path.read_text(encoding="utf-8")
